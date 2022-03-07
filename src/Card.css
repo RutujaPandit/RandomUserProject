@@ -1,0 +1,22 @@
+.card-image{
+    width:45%;
+    border-radius: 50px;
+}
+
+#card-i{
+    margin:50px;
+    padding:50px;
+    height:10px;
+    width:45%;
+    border-radius: 50px;
+}
+#f-icon{
+    background-color: black!important;
+    color: white;
+}
+.card-body{
+    padding: 1rem 6rem!important;
+}
+#btn{
+    border-radius: 20px!important;
+}
